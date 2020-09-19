@@ -1,0 +1,10 @@
+C:\Users\Взрослая академия\source\repos\insert\Test\TestDataTable\obj\Debug\TestDataTable.csprojAssemblyReference.cache
+C:\Users\Взрослая академия\source\repos\insert\Test\TestDataTable\obj\Debug\TestDataTable.Form1.resources
+C:\Users\Взрослая академия\source\repos\insert\Test\TestDataTable\obj\Debug\TestDataTable.Properties.Resources.resources
+C:\Users\Взрослая академия\source\repos\insert\Test\TestDataTable\obj\Debug\TestDataTable.csproj.GenerateResource.cache
+C:\Users\Взрослая академия\source\repos\insert\Test\TestDataTable\obj\Debug\TestDataTable.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\source\repos\insert\Test\TestDataTable\bin\Debug\TestDataTable.exe.config
+C:\Users\Взрослая академия\source\repos\insert\Test\TestDataTable\bin\Debug\TestDataTable.exe
+C:\Users\Взрослая академия\source\repos\insert\Test\TestDataTable\bin\Debug\TestDataTable.pdb
+C:\Users\Взрослая академия\source\repos\insert\Test\TestDataTable\obj\Debug\TestDataTable.exe
+C:\Users\Взрослая академия\source\repos\insert\Test\TestDataTable\obj\Debug\TestDataTable.pdb
