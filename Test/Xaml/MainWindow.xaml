@@ -1,0 +1,40 @@
+﻿<Window x:Class="Xaml.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Xaml"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="345.938" Width="758.75">
+
+
+    <StackPanel Orientation="Horizontal">
+
+        <StackPanel Orientation="Vertical">
+            <Button Width="30" Height="30" >1</Button>
+            <Button Width="30" Height="30">4</Button>
+            <Button Width="30" Height="30">7</Button>
+        </StackPanel>
+        <StackPanel Orientation="Vertical">
+            <Button Width="30" Height="30" >2</Button>
+            <Button Width="30" Height="30">5</Button>
+            <Button Width="30" Height="30">8</Button>
+        </StackPanel>
+        <StackPanel Orientation="Vertical">
+            <Button Width="30" Height="30" >3</Button>
+            <Button Width="30" Height="30">6</Button>
+            <Button Width="30" Height="30">2</Button>
+        </StackPanel>
+    </StackPanel>
+
+
+   
+
+
+
+
+
+
+
+
+</Window>
