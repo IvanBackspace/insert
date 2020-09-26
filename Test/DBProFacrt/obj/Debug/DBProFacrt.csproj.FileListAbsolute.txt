@@ -1,0 +1,13 @@
+C:\Users\Взрослая академия\source\repos\insert\Test\DBProFacrt\bin\Debug\DBProFacrt.exe.config
+C:\Users\Взрослая академия\source\repos\insert\Test\DBProFacrt\bin\Debug\DBProFacrt.exe
+C:\Users\Взрослая академия\source\repos\insert\Test\DBProFacrt\bin\Debug\DBProFacrt.pdb
+C:\Users\Взрослая академия\source\repos\insert\Test\DBProFacrt\obj\Debug\DBProFacrt.csprojAssemblyReference.cache
+C:\Users\Взрослая академия\source\repos\insert\Test\DBProFacrt\obj\Debug\DBProFacrt.Form1.resources
+C:\Users\Взрослая академия\source\repos\insert\Test\DBProFacrt\obj\Debug\DBProFacrt.Properties.Resources.resources
+C:\Users\Взрослая академия\source\repos\insert\Test\DBProFacrt\obj\Debug\DBProFacrt.csproj.GenerateResource.cache
+C:\Users\Взрослая академия\source\repos\insert\Test\DBProFacrt\obj\Debug\DBProFacrt.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\source\repos\insert\Test\DBProFacrt\obj\Debug\DBProFacrt.exe
+C:\Users\Взрослая академия\source\repos\insert\Test\DBProFacrt\obj\Debug\DBProFacrt.pdb
+C:\Users\Взрослая академия\source\repos\insert\Test\DBProFacrt\bin\Debug\Base\Library.accdb
+C:\Users\Взрослая академия\source\repos\insert\Test\DBProFacrt\bin\Debug\Base\Library.mdb
+C:\Users\Взрослая академия\source\repos\insert\Test\DBProFacrt\bin\Debug\Base\Library.mdf
